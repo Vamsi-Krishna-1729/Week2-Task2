@@ -39,6 +39,7 @@ require([
     container: "viewDiv",
     map: map,
     center: [-90.1994, 38.6270], // St. Louis, MO
-    zoom: 12
+    zoom: 10
   });
 });
+
